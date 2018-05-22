@@ -33,8 +33,4 @@ function iLoveTheBeatles(n) {
  } while (n < 15);
  return array;
 };
-<<<<<<< HEAD
-=======
 
-
->>>>>>> 21a39b340aa25fcab896cac836ed4c110d525363
